@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
+Website Name: Restaurantly
+website URL: 
+Author:Edited Grace
 License: https://bootstrapmade.com/license/
